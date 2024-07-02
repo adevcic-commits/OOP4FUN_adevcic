@@ -1,2 +1,2 @@
 ### OOP4 Fun
-Hello world!
+This is great GitHub example!
